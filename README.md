@@ -1,4 +1,4 @@
-### Hi there, I'm Rakib 👋
+### Hi there, I'm Rakib Raihan 👋
 
 ## I'm a Dreamer, Developer & Learner!
 - 🔭 I’m currently working on ME!
