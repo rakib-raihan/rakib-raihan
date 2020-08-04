@@ -2,7 +2,8 @@
 
 ## I'm a Dreamer, Developer & Learner!
 - 🔭 I’m currently working on ME!
-- 🌱 I’m currently learning anything I feel interested
+- 🌱 I’m learning anything I feel interested
+- ❤️ My goal is to Contribute to Open Source projects
 - ⚡ I love to Eat & Sleep
 
 ### Connect with me:
