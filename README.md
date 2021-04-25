@@ -1,6 +1,5 @@
-### Hi there, I'm Rakib Raihan 👋
-
-## I'm a Dreamer, Developer & Learner!
+## Hi there, I'm Rakib Raihan 👋
+## A Dreamer, Developer & Learner!
 - 🔭 I’m currently working on ME!
 - 🌱 I’m learning anything I feel interested
 - ⚡ My goal is to Contribute to Open Source projects
